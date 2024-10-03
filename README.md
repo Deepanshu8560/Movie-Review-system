@@ -4,3 +4,8 @@ Sentiment Analysis on a Movie Review System involves using natural language proc
 The system classifies each review as positive, negative, or neutral based on the text.
 By analyzing the emotions and opinions expressed in the reviews, it helps generate an overall sentiment score for each movie.
 This provides deeper insights into how audiences perceive a film, beyond just ratings, and can be used to enhance recommendations or display real-time audience reactions.
+
+
+<img src="./ss/rev1.png">
+
+<img src="./ss/rev2.png">
